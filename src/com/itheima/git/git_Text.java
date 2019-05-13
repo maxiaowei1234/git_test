@@ -8,4 +8,8 @@ public class git_Text {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    public void meteond(){
+        int a=10;
+        int b=a;
+    }
 }
